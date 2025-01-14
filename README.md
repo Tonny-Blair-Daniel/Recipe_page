@@ -15,7 +15,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [https://github.com/Tonny-Blair-Daniel/Recipe_page.git]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://tonny-blair-daniel.github.io/Recipe_page/]
 
 ## My process
 
@@ -44,4 +44,4 @@ tr:nth-child(2),tr:nth-child(3),tr:nth-child(4){
 - psuedo elements of CSS.
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [https://tonny-blair-daniel.github.io/Recipe_page/]
